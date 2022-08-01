@@ -1,0 +1,22 @@
+{
+  "name": "examfabrikam",
+  "version": "1.0.0",
+  "description": "this is end module exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitkumarsing1997/examfabrikam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitkumarsing1997/examfabrikam/issues"
+  },
+  "homepage": "https://github.com/amitkumarsing1997/examfabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
